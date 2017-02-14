@@ -1,0 +1,24 @@
+[33mcommit 496742cbc1e98ab139dafce56b9d4abe983506e6[m
+Merge: b6dc492 1ef1e2c
+Author: quentin <zhor.osu@gmail.com>
+Date:   Tue Feb 14 10:25:30 2017 +0100
+
+    Merge branch 'test' of https://github.com/kbrante/branch_test into test
+
+[33mcommit b6dc4925a47806c2d81f1b1729c3deef86112c7c[m
+Author: quentin <zhor.osu@gmail.com>
+Date:   Tue Feb 14 10:22:20 2017 +0100
+
+    html
+
+[33mcommit 1ef1e2ce5322b54ed8949d40cdeac717f4e48e68[m
+Author: karina BRANTE <karina.brante@gmail.com>
+Date:   Tue Feb 14 10:03:06 2017 +0100
+
+    add script.js
+
+[33mcommit 76c5aa24018784e28c7ad712bb29ba7c4143adb1[m
+Author: karina BRANTE <karina.brante@gmail.com>
+Date:   Tue Feb 14 09:42:53 2017 +0100
+
+    initial commit
